@@ -1,4 +1,7 @@
 # Cryptocurrency Clusters
+<img width="943" alt="Screen Shot 2022-03-06 at 4 26 06 PM" src="https://user-images.githubusercontent.com/91695375/156942821-614dcc8e-3f96-4766-bd5b-27752151b1cb.png">
+
+
 
 ## Background
 
